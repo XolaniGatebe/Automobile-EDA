@@ -34,7 +34,7 @@ The project includes five key visualizations:
 
 3. **Run the notebook**:
    ```bash
-   jupyter notebook automobile_eda.ipynb
+   jupyter notebook Automobile_EDA.ipynb
 
 ## Skills Demonstrated
 - Data Cleaning: Handling missing data, duplicates, and type conversion.
